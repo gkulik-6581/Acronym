@@ -1,0 +1,1 @@
+This program takes a phrase from user inputs and creates an acronym
